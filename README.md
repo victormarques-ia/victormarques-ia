@@ -1,16 +1,16 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **victormarques-ia/victormarques-ia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## Hello dear 👋
+
+### I am passionate about trying to learn new things mainly related to development.
+
+- 🔭 Currently using a lot of React in front-end projects.
+- 🌱 Studying mainly JavaScript and its frameworks in general, in addition to Python, Flutter and other cool things.
+- 💬 Always available to exchange knowledge and learn more from others, so talk to me 😄.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-silva-6764111a1/)](https://www.linkedin.com/in/victor-silva-6764111a1/)
