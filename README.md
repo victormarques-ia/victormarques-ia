@@ -5,7 +5,7 @@
 **victormarques-ia/victormarques-ia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Hello dear 👋
+## Hi guys 👋
 
 ### I am passionate about trying to learn new things mainly related to development.
 
