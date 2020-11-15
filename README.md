@@ -10,7 +10,7 @@
 ### I am passionate about trying to learn new things mainly related to development.
 
 - 🔭 Currently using a lot of React and React Native in front-end/mobile projects.
-- 🌱 Studying mainly JavaScript and its frameworks in general, but also looking at Python, Flutter and other cool things.
+- 🌱 Studying mainly JavaScript/TypeScript and its frameworks in general, but also looking at Python, Flutter and other cool things.
 - 💬 Always available to exchange knowledge and learn more from others, so talk to me 😄.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-silva-6764111a1/)](https://www.linkedin.com/in/victor-silva-6764111a1/)
