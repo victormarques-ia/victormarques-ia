@@ -9,7 +9,7 @@
 
 ### I am passionate about trying to learn new things mainly related to development.
 
-- 🔭 Currently using a lot of React and React Native in front-end/mobile projects.
+- 🔭 Currently using a lot of React and Flutter in front-end/mobile projects.
 - 🌱 Studying mainly JavaScript/TypeScript and its frameworks in general, but also looking at Python, Flutter and other cool things.
 - 💬 Always available to exchange knowledge and learn more from others, so talk to me 😄.
 
